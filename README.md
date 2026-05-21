@@ -65,3 +65,23 @@ Performance trends
 Comparative analysis
 Interactive filters and slicers
 Visual reports for operational monitoring
+
+Dashboard Images:
+<img width="1192" height="668" alt="image" src="https://github.com/user-attachments/assets/25d5a0e5-d773-4c68-948c-cef70085ab04" />
+
+Future Improvements:
+Deployment using cloud platforms
+Advanced predictive analytics
+Automated report generation
+AI-powered recommendations
+Database integration
+Enhanced dashboard interactivity
+
+Conclusion:
+
+This project demonstrates practical implementation of Data Analytics, Machine Learning, and Business Intelligence concepts using Python and Power BI. It helped in understanding end-to-end data workflows, KPI monitoring, predictive analysis, and dashboard development.
+
+Author:
+Zarna Namojwar
+MCA Student | Aspiring Data Analyst & Business Analyst
+
