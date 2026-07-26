@@ -1,70 +1,45 @@
-# Operational-KPI-Monitoring-For-small-Businesses
-The Operational KPI Monitoring and Predictive Analytics System is a data analytics project developed to monitor, analyze, and visualize operational performance indicators using Python, Machine Learning, and Power BI.
+# 📊 Operational KPI Monitoring and Predictive Analytics System for Small Businesses
 
-Project Overview:
-The project focuses on transforming raw operational data into meaningful insights through data preprocessing, KPI analysis, predictive modeling, and interactive dashboard visualization. The system helps in tracking organizational performance and supports data-driven decision-making.
+An end-to-end analytics solution that helps small businesses monitor operational KPIs, analyze sales performance, and forecast revenue using Machine Learning and Power BI.
 
-Objectives:
-Analyze operational/business data
-Monitor key performance indicators (KPIs)
-Perform data cleaning and preprocessing
-Apply Machine Learning techniques for predictive insights
-Create an interactive Power BI dashboard
-Generate business insights for better decision-making
-Technologies Used
-Python
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
-Power BI
-Excel / CSV Dataset
+## 🎯 Business Problem
+Small businesses often rely on manual spreadsheets and historical reports, making it difficult to monitor KPIs, identify trends, and forecast future revenue.
 
-Workflow:
-Raw Dataset (CSV/Excel)
-          ↓
-Data Cleaning & Preprocessing using Python
-          ↓
-KPI Analysis & Machine Learning
-          ↓
-Processed Data & Insights
-          ↓
-Interactive Power BI Dashboard
-          ↓
-Business Decision Support
+## 🚀 Solution
+This project combines Python, Machine Learning, and Power BI to clean, analyze, visualize, and predict business performance from transactional data.
 
-Features:
-Data cleaning and preprocessing
-KPI tracking and monitoring
-Interactive Power BI dashboard
-Predictive analytics using Machine Learning
-Trend and performance analysis
-Business insights generation
-Visual representation of operational metrics
-User-friendly dashboard interface
-Machine Learning Integration
+## ✨ Key Features
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- KPI Monitoring Dashboard
+- Revenue Forecasting using Linear Regression
+- Historical Trend Analysis
+- Predictive Analytics
+- Interactive Power BI Dashboard
 
-The project includes Machine Learning techniques to improve operational analysis and prediction.
+## 🛠️ Tech Stack
+- Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Power BI
+- Git & GitHub
 
-ML Tasks Performed
-Data preprocessing
-Feature selection
-Trend analysis
-Predictive modeling
-Libraries Used
-Scikit-learn
-Pandas
-NumPy
+## 📊 Project Results
+- 230,646+ transaction records analyzed
+- R² Score: 0.98
+- Highest Revenue Month: December
+- Top Market: United Kingdom
+- Top Product: Paper Craft Little Birdie
 
-Dashboard Insights:
-
-The Power BI dashboard provides:
-
-KPI cards
-Performance trends
-Comparative analysis
-Interactive filters and slicers
-Visual reports for operational monitoring
+## 💼 Business Impact
+- Reduced manual reporting
+- Improved seasonal planning
+- Optimized inventory planning
+- Enabled ML-based revenue forecasting
+- Supported data-driven decision-making
 
 Dashboard Images:
 <img width="1192" height="668" alt="image" src="https://github.com/user-attachments/assets/25d5a0e5-d773-4c68-948c-cef70085ab04" />
